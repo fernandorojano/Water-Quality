@@ -1,0 +1,13 @@
+Type,Name,Longitude,Latitude,Elevation,River Code,Pool,Data sets specifications,Bank,State,County,HUC,Drainage Area,WQX Code,USGS Code,NWS Code,USACE Code,ORSANCO Code,Description
+Transect,T-1,-81.663,38.363,,WV,TrojanLanding,Three sets: 1) Period: 8.2.2019  13:40:01-14:50:01 2)  Period: 8.2.2019  10:56:01-13:00:01 3) Period: 8.2.2019  10:16:01-12:08:01 ,,,,,,,,,,,Two locations 1m depth and One location 3m depth
+Locks and Dam,London,-81.369,38.192,,WV,London,Data available at the  link,,,,,,,,,kanawha ,,
+Locks and Dam,Marmet,-81.567,38.253,,WV,Marmet,Data available at the  link,,,,,,,,,kanawha ,,
+Locks and Dam,Winfield,-81.913,38.526,,WV,Winfeld,Data available at the  link,,,,,,,,,kanawha ,,
+USGS Gage,Kanawha Falls,-81.22,38.138,,WV,London,Data available at the  link,,,,5050006,,,3193000,kanw2,,,
+USGS Gage,Elk,-81.284,38.47,,WV,Winfield,Data available at the  link,,,,5050007,,,3197000,qusw2,,,
+USGS Gage,Charleston,-81.702,38.371,,WV,Winfield,Data available at the  link,,,,5050008,,,3198000,crsw2,,,
+USGS Gage,Sissonville,-81.631,38.526,,WV,Winfield,Data available at the  link,,,,5050008,,,3201000,sisw2,,,
+USGS Gage,Coal,-81.841,38.338,,WV,Winfield,Data available at the  link,,,,5050009,,,3205000,torw2,,,
+Sonde Data,WQChesapeake,-81.535,38.224,,WV,Marmet,One set: 1) Period: 1.11.20118  15:00:01- 3.22.2018 23:00:01 ,,WV,,,,,,,,WV01,"https://doi.org/10.6084/m9.figshare.9786212 NOTE: If the link does not work, please copy and paste it.  Further information about Water Quality, please contact Dr. Davi H Huber (huberdh@wvstateu.edu) "
+Sonde Data,WQCharleston,-81.664,38.362,,WV,Kanawha,One set: 1) Period: 1.11.20118  15:00:01- 3.22.2018 23:00:01 ,,WV,,,,,,,,WV02,"https://doi.org/10.6084/m9.figshare.9786212 NOTE: If the link does not work, please copy and paste it.  Further information about Water Quality, please contact Dr. Davi H Huber (huberdh@wvstateu.edu) "
+Sonde Data,WQPocatalico,-81.825,38.482,,WV,Kanawha,One set: 1) Period: 1.11.20118  15:00:01- 3.22.2018 23:00:01 ,,WV,,,,,,,,WV03,"https://doi.org/10.6084/m9.figshare.9786212 NOTE: If the link does not work, please copy and paste it.  Further information about Water Quality, please contact Dr. Davi H Huber (huberdh@wvstateu.edu) "
